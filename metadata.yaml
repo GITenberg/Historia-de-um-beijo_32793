@@ -1,0 +1,34 @@
+_repo: Historia-de-um-beijo_32793
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Soutelo, A. J. Lione
+    gutenberg_agent_id: '36050'
+    url: http://www.gutenberg.org/2009/agents/36050
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pérez Escrich, Enrique
+    aliases:
+    - Escrich, Enrique Perez
+    - Escrich, Enrique Pérez
+    birthdate: 1829
+    deathdate: 1897
+    gutenberg_agent_id: '36049'
+    url: http://www.gutenberg.org/2009/agents/36049
+description: ''
+gutenberg_issued: '2010-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32793'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Historia de um beijo
+url: http://www.gutenberg.org/ebooks/32793
